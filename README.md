@@ -1,3 +1,2 @@
-# PythonExercises
-
-This is my collection of Python Practise Problems
+Hacker Rank Questions!
+This is my collection of HackerRank Python Solutions
